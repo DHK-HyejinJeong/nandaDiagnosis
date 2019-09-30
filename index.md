@@ -2,9 +2,20 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
+<!-- [Link to another page](./another-page.html). -->
+<!-- 링크는 이런식으로 달면 된다. -->
+<!-- Domain --> 1.
+Domain --> 1.
+Domain --> 1.
+Domain --> 1.
+Domain --> 1.
+Domain --> 1.
+Domain --> 1.
+Domain --> 1.
+Domain --> 1.
+Domain --> 1.
+Domain --> 1.
+Domain --> 1. -->
 
 난다 프로젝트 기본 틀입니다 여기서 post 영역을 수정 합니다.
 
@@ -46,11 +57,3 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 - level 1 item
 난다 프로젝트 기본 틀입니다 여기서 post 영역을 수정 합니다.
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
