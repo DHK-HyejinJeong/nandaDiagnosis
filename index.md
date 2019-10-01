@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<!-- [Link to another page](./another-page.html). -->
+[Move to Domain](./_posts/1.md).
 <!-- 링크는 이런식으로 달면 된다. -->
 <!-- Domain --> 1.
 Domain --> 1.
