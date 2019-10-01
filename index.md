@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Move to Domain](./_posts/1.md).
+[Move to Domain](./1.md).
 <!-- 링크는 이런식으로 달면 된다. -->
 <!-- Domain --> 1.
 Domain --> 1.
