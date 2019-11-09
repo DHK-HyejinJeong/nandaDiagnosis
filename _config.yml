@@ -29,9 +29,9 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "google-gtag"# false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "false"# false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   google:
-    tracking_id          : "UA-148030981-1"
+    tracking_id          : #
     anonymize_ip         : # true, false (default)
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
@@ -103,15 +103,15 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-148030981-1"
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Keelim"
+  name             : "Nanda"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : ""
@@ -119,7 +119,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:kimh00335@gmail.com
+      #url: mailto:kimh00335@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -128,7 +128,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/Keelim-311246812910505/"
+      url: "https://www.facebook.com/nandaProject/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/keelim"
