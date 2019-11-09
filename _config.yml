@@ -3,3 +3,13 @@ description: 난다 진단 for you
 show_downloads: true
 google_analytics: 'UA-148030981-1'
 theme: jekyll-theme-architect
+
+
+#Archives
+category_archive:
+  type: 1
+  pathL /1/
+tag_archive:
+  type: 1
+  path: /tags/
+
