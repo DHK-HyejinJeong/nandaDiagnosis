@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "홈페이지 방문하기"
-    url: https://www.github.com
+  - title: "home"
+    url: https://www.github.com//
   - title: "About"
     url: /about/
-  - title: "진단명 확인하기"
-    url: /pots/
+  - title: "Diagnosis"
+    url: /1/
