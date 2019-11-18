@@ -140,15 +140,15 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-        url: ""
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#        url: ""
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      # url:
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+       url:
 #    - label: "GitLab"
 #      icon: "fab fa-fw fa-gitlab"
 #      # url:
