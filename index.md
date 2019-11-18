@@ -8,6 +8,8 @@ Domain: 영역입니다.
 
 Domain --> 1. [Move to Domain](_pages/1.md).
 
+Domain --> Diagnosis. [Move to Domain](_pages/information/1.md).
+
 Domain --> 2. [Move to Domain](_pages/2.md).
 
 Domain --> 3. [Move to Domain](_pages/3.md).
