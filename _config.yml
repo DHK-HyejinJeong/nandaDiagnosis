@@ -15,12 +15,12 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale: "ko"
-title: "Keelim`s blog"
+locale: "en-US"
+title: "난다 진단"
 title_separator: "-"
 name: "Keelim"
-description: "Keelim tech blog"
-url: "https//:Keelim/github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description: "난다 진단"
+url: "https://keelim.github.io/nandaDiagnosis/"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: ""
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -99,24 +99,24 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
+  provider: "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-148030981-1"
-    anonymize_ip         : # true, false (default)
+    tracking_id: "UA-148030981-1"
+    anonymize_ip: # true, false (default)
 
 
 
 # Site Author
 author:
-  name: "Keelim"
+  name: "Nanda"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: ""
-  location: ""
+  bio: "난다 진단"
+  location: "South Korea"
   email:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:kimh00335@gmail.com
+      #url: mailto:kimh00335@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -128,13 +128,13 @@ author:
       url: "https://www.facebook.com/Keelim-311246812910505/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/keelim"
+      url: "https://keelim.github.io/nandaDiagnosis/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "naver/blog"
       icon: ""
-      url: "https://blog.naver.com/h00335"
+      # url: "https://blog.naver.com/h00335"
 # Site Footer
 footer:
   links:

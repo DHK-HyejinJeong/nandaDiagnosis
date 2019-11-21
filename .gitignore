@@ -4,3 +4,4 @@ Gemfile.lock
 *.gem
 /.idea
 *.sh
+script/
