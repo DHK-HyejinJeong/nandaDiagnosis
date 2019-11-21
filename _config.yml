@@ -146,7 +146,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://keelim.github.io/nandaDiagnosis/"
+       #url: "https://keelim.github.io/nandaDiagnosis/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
